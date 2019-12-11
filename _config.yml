@@ -1,11 +1,11 @@
 # Site settings
 author: Cameryn Rhosyn
-title: 
+title: Cam's Coding and Data
 header-img: img/home-bg.png
 email: camerynrhosyn@gmail.com
 copyright_name: Cameryn Rhosyn
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Coding. Data. Better.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  camrhosyn
